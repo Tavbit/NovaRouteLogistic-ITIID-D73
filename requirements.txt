@@ -1,0 +1,13 @@
+networkx
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+streamlit
+pymongo
+dnspython
+joblib
+jupyter
+pytest
+# Add tensorflow and pyspark during their dedicated sprint to avoid heavy setup now.
